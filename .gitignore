@@ -1,0 +1,17 @@
+# Python
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+
+# Frontend
+node_modules/
+.next/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Editor
+.vscode/
