@@ -11,3 +11,7 @@ Version: 0.1
 - Database: PostgreSQL (planned)
 - Agentic AI: LangGraph (planned)
 - Integrations: Salesforce, Jira, Slack, GitHub (planned)
+
+## Current Milestone
+
+M1.1 - Project and backend environment setup.
